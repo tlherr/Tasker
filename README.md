@@ -2,9 +2,8 @@ Tasker
 ======
 
 Collection of Tasker tasks. Most tasks have been inspired by others either via direct xml export or by description and recreation.
-
 This task collection is licenced under the MIT License (see LICENCE for details).
-
+##### Some tasks require secure settings (with root) or other listed plugins
 
 #### Location
 ======
