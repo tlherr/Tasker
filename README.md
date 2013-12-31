@@ -19,3 +19,9 @@ This task collection is licenced under the MIT License (see LICENCE for details)
         * The location that was given as a response
     * If Variable GPSInUse is false than turn off GPS
         * GPSInUse is defined as true while specified apps are open (such as maps)
+
+* Wifi (Home Network) Detected:
+    * Set variable isHome to "true"
+
+* Wifi (Home Network) Not Detected:
+    * Set variable isHome to "false"
